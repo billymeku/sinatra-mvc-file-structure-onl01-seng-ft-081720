@@ -1,4 +1,4 @@
-class Dog <  ActiveRecord::Base
+class Dog 
 # attr_accessor :name, :breed, :age 
 #   @@all = []
 # def intialize(name,breed,age)
